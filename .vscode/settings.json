@@ -9,6 +9,7 @@
 		"ostream": "cpp",
 		"streambuf": "cpp",
 		"memory": "cpp",
-		"utility": "cpp"
+		"utility": "cpp",
+		"iosfwd": "cpp"
 	}
 }
